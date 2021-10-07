@@ -1,4 +1,4 @@
-🔵🟢 Vue-Poject
+🔵🟢 <h1>Vue-Poject</h1>
 
 This was our first project with Vue. The objective was practice the methods GET, POST, PUT and DELETE student of a list. We used an external API to practice it
 We worked in partner of two
