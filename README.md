@@ -7,12 +7,13 @@ We worked in partner of two
 
 🔹Technologies used: NodeJS- Vue- BootstrapVue- JavaScript 
 
-
-
-<h3>Home<h3>
-  
 <h3>Student List<h3>
+  <img src='screenshot/list.png'/>
   
+<h3>Form<h3>
+<img src='screenshot/form.png'/>
+  
+
 
 ##  Run the next command lines to getting started 💻
 
