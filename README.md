@@ -19,7 +19,7 @@ We worked in partner of two
 
 First you'll have to clone this repository in a folder in your computer, then you'll have to open your console in that directory and: 
   
-npm install
-npm run serve
+  <p>npm install</p>
+  <p>npm run serve</p>
 
 This will start the app on your  http://localhost:8080/
